@@ -88,7 +88,7 @@ Data cleaning and transformation were performed using Power Query:
 ---
 
 ## 👨‍💻 Author
-**Bharath Chenagoni**  
+**Pruthviraj Malagari**  
 Power BI Developer  
 
 ---
